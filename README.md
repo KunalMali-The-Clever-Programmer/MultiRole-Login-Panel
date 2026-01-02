@@ -9,6 +9,8 @@ Supports multiple user roles (Admin, Manager, User), role-based authentication, 
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/4eac57d6-9c45-4eae-bfda-a348ff5489d0" />
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/73f42442-ca3c-475e-8af1-c4b8f469f656" />
 <img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/073d8e8a-342f-4a63-83d7-f125c4d9b6c2" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/654f0d7f-9d2f-4300-b89d-9e1b22eb2ce9" />
+
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/61f10bf7-11bc-4171-b92e-3b047b0171fb" />
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6a30aa33-cc03-4886-8a2b-238d896595d4" />
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/3432f3b3-b9b3-4bcc-a199-685a5fce6fdd" />
@@ -22,6 +24,9 @@ Supports multiple user roles (Admin, Manager, User), role-based authentication, 
 <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/11fd5b90-b988-410b-9e8c-196b0bba0562" />
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3aa4fbec-f6f0-45c5-98be-ee2fa1f04d2d" />
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/c110ed3f-a38e-432b-ad2e-831c4b85bf54" />
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/fdb8c6e5-e2d1-449e-8460-65f74082de4c" />
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/8d830013-98e0-4e53-bae6-f937195b2479" />
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/30daa3b0-add7-459b-8544-94334ef03797" />
 
 
 
