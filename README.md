@@ -5,6 +5,40 @@ Supports multiple user roles (Admin, Manager, User), role-based authentication, 
 
 ---
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/4eac57d6-9c45-4eae-bfda-a348ff5489d0" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/73f42442-ca3c-475e-8af1-c4b8f469f656" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/073d8e8a-342f-4a63-83d7-f125c4d9b6c2" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/61f10bf7-11bc-4171-b92e-3b047b0171fb" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6a30aa33-cc03-4886-8a2b-238d896595d4" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/3432f3b3-b9b3-4bcc-a199-685a5fce6fdd" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/a111739d-332e-403e-81fd-12f122b94cc9" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/e04f8c45-7e5c-496a-86a5-5e705e73ab3c" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/229cfb4b-1164-4b66-8f8c-e052b7d9bde8" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/007292ba-14c8-458a-a85c-da3e73470d1a" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c074512d-96a4-4889-a778-d6c876324a68" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/f1da7375-c004-4b35-b33b-fb049dc005f9" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7edad6d7-8e5d-4894-a801-c1ba82506567" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachment<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/5bd17121-1aed-444e-8d96-769a3bb0d171" />
+s/assets/24c22526-af45-4234-ac7b-018b4222e009" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/b74cd015-bdae-4ea5-887d-059e867a3955" />
+6ac2d688-bcb0-40ff-9c15-c491d4b408cc" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/66dd3d3a-ecc9-4a60-9e44-4e83b41e1fb7" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/43738159-2cf2-4d18-a80b-0c96fa95170e" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attac<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/14eb414d-2b6d-4ba0-b88d-82205e745241" />
+hments/assets/d4bf4f7e-b61e-4b64-b928-5fd1efb2bd0a" />
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/aa8db1f1-7ee5-4d7e-908a-df24ddd9aa9d" />
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/1f205ee0-4e0c-42d4-a14c-b3f96b5729b1" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/3524670d-f839-444d-bcb9-ef66ebddce1d" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/db9c0722-c3fb-4474-88c7-a7671f112caf" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/1d9f1a2c-8427-4ef3-8e17-5a48d3373fc7" />
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/1c998c9d-58fa-4dd0-91c5-f7e2b8aaf908" />
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/c58bc29e-c3b7-4ef3-a61c-449ce708468a" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/98c0b397-055f-47dd-b<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/12be9669-7f4c-40cc-bb8d-b5a59ff97a9b" />
+d55-9f06ed5d2b30" />
+
+
+
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
