@@ -122,13 +122,7 @@ cd multi-role-backend
 mvn clean install
 mvn spring-boot:run
 
-
----
-
-## Installation
-
 ### Fontend
-```bash
 
 cd multi-role-fontend
 npm install
