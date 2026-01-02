@@ -19,10 +19,14 @@ Supports multiple user roles (Admin, Manager, User), role-based authentication, 
 <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c074512d-96a4-4889-a778-d6c876324a68" />
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/f1da7375-c004-4b35-b33b-fb049dc005f9" />
 <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7edad6d7-8e5d-4894-a801-c1ba82506567" />
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachment<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/5bd17121-1aed-444e-8d96-769a3bb0d171" />
-s/assets/24c22526-af45-4234-ac7b-018b4222e009" />
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/b74cd015-bdae-4ea5-887d-059e867a3955" />
-6ac2d688-bcb0-40ff-9c15-c491d4b408cc" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/11fd5b90-b988-410b-9e8c-196b0bba0562" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3aa4fbec-f6f0-45c5-98be-ee2fa1f04d2d" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/c110ed3f-a38e-432b-ad2e-831c4b85bf54" />
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/66dd3d3a-ecc9-4a60-9e44-4e83b41e1fb7" />
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/43738159-2cf2-4d18-a80b-0c96fa95170e" />
 <img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attac<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/14eb414d-2b6d-4ba0-b88d-82205e745241" />
