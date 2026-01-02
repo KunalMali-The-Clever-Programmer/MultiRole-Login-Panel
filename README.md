@@ -34,7 +34,9 @@ Supports multiple user roles (Admin, Manager, User), role-based authentication, 
 
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/66dd3d3a-ecc9-4a60-9e44-4e83b41e1fb7" />
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/43738159-2cf2-4d18-a80b-0c96fa95170e" />
-<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attac<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/14eb414d-2b6d-4ba0-b88d-82205e745241" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/c6876e85-b835-4b6b-9104-1b5c0e2d0235" />
+
+
 hments/assets/d4bf4f7e-b61e-4b64-b928-5fd1efb2bd0a" />
 <img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/aa8db1f1-7ee5-4d7e-908a-df24ddd9aa9d" />
 <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/1f205ee0-4e0c-42d4-a14c-b3f96b5729b1" />
@@ -43,8 +45,8 @@ hments/assets/d4bf4f7e-b61e-4b64-b928-5fd1efb2bd0a" />
 <img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/1d9f1a2c-8427-4ef3-8e17-5a48d3373fc7" />
 <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/1c998c9d-58fa-4dd0-91c5-f7e2b8aaf908" />
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/c58bc29e-c3b7-4ef3-a61c-449ce708468a" />
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/98c0b397-055f-47dd-b<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/12be9669-7f4c-40cc-bb8d-b5a59ff97a9b" />
-d55-9f06ed5d2b30" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/fd9e72cd-5f6f-4347-b481-f260293452b8" />
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/da56d09f-b550-441a-870f-69d953f95cdb" />
 
 
 
