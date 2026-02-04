@@ -52,6 +52,12 @@ hments/assets/d4bf4f7e-b61e-4b64-b928-5fd1efb2bd0a" />
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/d89d5e97-f42c-41b1-9b1d-46c4c47e2960" />
 
 
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/778bb6d8-1334-48cc-b356-03e0296e4ee4" />
+
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/7e5da5f0-2269-43d3-ade6-952424c7998a" />
+
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/48f5df4c-7e59-4eaf-9487-ea4531b469e3" />
+
 
 ## Table of Contents
 - [Features](#features)
